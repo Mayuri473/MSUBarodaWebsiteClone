@@ -1,4 +1,4 @@
-# MSUBarodaWebsiteClone
+# MSU Baroda Website Clone
 
 ## Description
 
